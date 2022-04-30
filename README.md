@@ -1,16 +1,10 @@
 ### Hi there, I'm Anushka👋
 
-<!--
-**AnushkaNMishra/AnushkaNMishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning the DSA concepts.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking for internships.
+- 💬 Ask me about tech things.
 - 📫 How to reach me: @anushkam306@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
--->
+- ⚡ Hobbies: I like to read and draw.
+

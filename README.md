@@ -5,11 +5,9 @@
 
 
 
-//- 🔭 I’m currently working on **Web Development.**
+- 🔭 I’m currently working on **Web Development.**
 
 - 🌱 I’m currently learning **Machine Learning.**
-
-- 👯 I’m looking for **Internships.**
 
 - 💬 Ask me about **tech things.**
 

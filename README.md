@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushka!</h1>
-<h3 align="center">Tech-nik-freak ;)</h3>
+<h3 align="center">I am a curious learner who loves to find the 'why' in everything.<br> Tech-nik-freak ;)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkanmishra&label=Profile%20views&color=0e75b6&style=flat-square" alt="anushkanmishra" /> </p>
 

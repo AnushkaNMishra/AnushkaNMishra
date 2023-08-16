@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anushka!</h1>
-<h3 align="center">I am a curious learner who loves to find the 'why' in everything.<br> Tech-nik-freak ;)</h3>
+<h1 align="center">Hi , I'm Anushka!</h1>
+<h3 align="center"> Tech-nik-freak ;)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkanmishra&label=Profile%20views&color=0e75b6&style=flat-square" alt="anushkanmishra" /> </p>
 
@@ -7,17 +7,14 @@
 
 - 🔭 I’m currently working on **Web Development.**
 
-- 🌱 I’m currently learning **Machine Learning.**
-
 - 💬 Ask me about **tech things.**
 
 - 📫 How to reach me **@anushkam306@gmail.com**
 
-- ⚡ Fun fact **I have an art page on instagram.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anushka-n-mishra-3ab861200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka-n-mishra-3ab861200/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anushkanmishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka-n-mishra-3ab861200/" height="30" width="40" /></a>
 <a href="https://instagram.com/artsbynush/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="artsbynush/" height="30" width="40" /></a>
 </p>
 
